@@ -62,6 +62,8 @@ Thumbs.db
 *.log
 *.sql
 *.sqlite
+# Don't ignore anything in the sql directory
+!sql/
 
 # ignore compiled files
 *.com
